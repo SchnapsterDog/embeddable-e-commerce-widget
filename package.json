@@ -1,6 +1,6 @@
 {
   "name": "ecom-widget",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Embeddable 5-item infinite carousel widget",
   "main": "dist/widget.min.js",
   "scripts": {
