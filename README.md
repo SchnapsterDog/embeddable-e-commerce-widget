@@ -72,10 +72,10 @@ npm run build
 ### 5️⃣ Preview production build
 
 ```bash
-npm run serve
+npx serve .
 ```
 
-> Serves `dist/` on <http://localhost:3000> (or similar)
+> Serves `widget.min.js` in the preview.html available here: <http://localhost:3000/preview>
 
 ---
 
@@ -86,7 +86,7 @@ Paste this into **any** HTML page:
 ```html
 <div id="my-ecom-widget"></div>
 
-<script src="https://your-cdn.com/widget.js"></script>
+<script src="https://your-cdn.com/widget.min.js"></script>
 <script>
   window.EcomWidget.init({
     selector: '#my-ecom-widget',
