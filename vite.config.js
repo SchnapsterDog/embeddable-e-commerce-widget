@@ -1,19 +1,20 @@
-// vite.config.js
 import { defineConfig } from 'vite';
 
 export default defineConfig({
+  root: '.',          
   build: {
+    outDir: 'dist',
+    emptyOutDir: true,
     lib: {
       entry: 'src/widget.js',
       name: 'EcomWidget',
-      fileName: () => 'widget.js',
-      formats: ['iife'], // IIFE = works via <script>
+      fileName: () => 'widget.min.js',
+      formats: ['iife']
     },
-    rollupOptions: {
-      output: {
-        globals: {},
-    }},
-    emptyOutDir: true,
-    minify: 'terser',
+    minify: 'esbuild',
   },
+  server: {
+    port: 5173,
+    open: false
+  }
 });

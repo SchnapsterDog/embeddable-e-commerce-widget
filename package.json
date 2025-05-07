@@ -1,14 +1,15 @@
 {
-  "name": "vite-widget-scaffold",
+  "name": "ecom-widget",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Embeddable 5-item infinite carousel widget",
+  "main": "dist/widget.min.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite",             
+    "build": "vite build",     
+    "preview": "vite preview"  
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Oliver Trajceski",
+  "license": "MIT",
   "devDependencies": {
     "vite": "^6.3.5"
   }
