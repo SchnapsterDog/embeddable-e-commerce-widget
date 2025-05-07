@@ -1,0 +1,18 @@
+<!-- preview.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Widget Preview</title>
+</head>
+<body>
+  <div id="my-ecom-widget" style="max-width:900px; margin:40px auto;"></div>
+  <script src="./dist/widget.min.js"></script>
+  <script>
+    window.EcomWidget.init({
+      selector: '#my-ecom-widget',
+      category: 'electronics'
+    });
+  </script>
+</body>
+</html>
