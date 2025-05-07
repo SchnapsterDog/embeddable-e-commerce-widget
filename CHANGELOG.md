@@ -3,6 +3,18 @@
 
 
 
+## v1.6.0
+
+[compare changes](https://github.com/SchnapsterDog/embeddable-e-commerce-widget/compare/v1.5.0...v1.6.0)
+
+### 🚀 Enhancements
+
+- Changed logic for preview, build, release the widget ([308dae5](https://github.com/SchnapsterDog/embeddable-e-commerce-widget/commit/308dae5))
+
+### ❤️ Contributors
+
+- Schnapsterdog <olivertrajceski@yahoo.com>
+
 ## v1.5.0
 
 [compare changes](https://github.com/SchnapsterDog/embeddable-e-commerce-widget/compare/v1.4.0...v1.5.0)
