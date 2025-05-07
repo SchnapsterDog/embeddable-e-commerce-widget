@@ -1,0 +1,20 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Widget Test</title>
+</head>
+<body>
+  <h1>My Website</h1>
+  <div id="my-ecom-widget"></div>
+
+  <script src="/src/widget.js"></script>
+  <script>
+    window.EcomWidget.init({
+      selector: '#my-ecom-widget',
+      category: 'electronics'
+    });
+  </script>
+</body>
+</html>
