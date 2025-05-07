@@ -4,13 +4,15 @@
   "description": "Embeddable 5-item infinite carousel widget",
   "main": "dist/widget.min.js",
   "scripts": {
-    "dev": "vite",             
-    "build": "vite build",     
-    "preview": "vite preview"  
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "release": "npm run build changelogen --release --minor && npm publish && git push --follow-tags"
   },
   "author": "Oliver Trajceski",
   "license": "MIT",
   "devDependencies": {
+    "changelogen": "^0.6.1",
     "vite": "^6.3.5"
   }
 }
