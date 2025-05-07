@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "release": "npm run build changelogen --release --minor && npm publish && git push --follow-tags"
+    "release": "changelogen --release --minor && npm publish && git push --follow-tags"
   },
   "author": "Oliver Trajceski",
   "license": "MIT",
