@@ -1,6 +1,6 @@
 {
   "name": "ecom-widget",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Embeddable 5-item infinite carousel widget",
   "main": "dist/widget.min.js",
   "scripts": {
@@ -9,7 +9,30 @@
     "preview": "vite preview",
     "release": "changelogen --release --minor && npm publish && git push --follow-tags"
   },
-  "author": "Oliver Trajceski",
+  "author": {
+    "name": "Oliver Trajceski",
+    "email": "oliver@akrinum.com"
+  },
+  "bugs": {
+    "url": "https://github.com/SchnapsterDog/embeddable-e-commerce-widget/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SchnapsterDog/embeddable-e-commerce-widget"
+  },
+  "contributors": [
+    {
+      "name": "Oliver Trajceski (@schnapsterdog)"
+    }
+  ],
+  "keywords": [
+    "Embeddable",
+    "Embeddable Widget",
+    "Embeddable E-commerce Widget",
+    "E-commerce",
+    "javascript",
+    "opensource"
+  ],
   "license": "MIT",
   "devDependencies": {
     "changelogen": "^0.6.1",
