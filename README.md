@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://app.imgforce.com/images/user/s6Y_1746579947_Widget%20Test%20-%20Google%20Chrome%205_7_2025%203_03_11%20AM.png" alt="Widget Logo" width="780" />
+  <img src="assets/demo.min.gif" alt="Widget Logo" width="780" />
 </p>
 
 <h1 align="center">Embeddable E-commerce Widget</h1>
