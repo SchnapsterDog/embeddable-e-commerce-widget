@@ -3,6 +3,18 @@
 
 
 
+## v1.5.0
+
+[compare changes](https://github.com/SchnapsterDog/embeddable-e-commerce-widget/compare/v1.4.0...v1.5.0)
+
+### 🩹 Fixes
+
+- Added index.html file inside dist folder ([0bafb35](https://github.com/SchnapsterDog/embeddable-e-commerce-widget/commit/0bafb35))
+
+### ❤️ Contributors
+
+- Schnapsterdog <olivertrajceski@yahoo.com>
+
 ## v1.4.0
 
 [compare changes](https://github.com/SchnapsterDog/embeddable-e-commerce-widget/compare/v1.3.0...v1.4.0)
