@@ -67,7 +67,7 @@ npm run dev
 npm run build
 ```
 
-> Outputs bundled `widget.js` to `dist/`
+> Outputs bundled `widget.min.js` to `dist/`
 
 ### 5️⃣ Preview production build
 
