@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-cdn.com/logo.png" alt="Widget Logo" width="180" />
+  <img src="https://app.imgforce.com/images/user/s6Y_1746579947_Widget%20Test%20-%20Google%20Chrome%205_7_2025%203_03_11%20AM.png" alt="Widget Logo" width="380" />
 </p>
 
 <h1 align="center">Embeddable E-commerce Widget</h1>
@@ -96,11 +96,7 @@ Access it at: [http://localhost:8080](http://localhost:8080)
 
 # ✨ Widget Preview
 
-> _(Replace this preview with your real screenshots later)_
-
-<p align="center">
-  <img src="https://your-cdn.com/widget-preview.png" alt="Widget Preview" width="800"/>
-</p>
+![Preview](https://app.imgforce.com/images/user/s6Y_1746579947_Widget%20Test%20-%20Google%20Chrome%205_7_2025%203_03_11%20AM.png)
 
 ---
 
@@ -163,9 +159,9 @@ For major changes, please open an issue first to discuss what you would like to 
 
 If you like this project, feel free to connect:
 
-- 🌐 [LinkedIn](https://linkedin.com/in/yourname)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 📩 Email: your@email.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/oliver-t-8a28b070/)
+- 🐦 [Github](https://github.com/SchnapsterDog)
+- 📩 Email: oliver@akrinum.com
 
 ---
 
