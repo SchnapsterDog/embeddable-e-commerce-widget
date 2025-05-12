@@ -1,8 +1,8 @@
-<p align="center">
+<a align="center" href="https://schnapsterdog.github.io/embeddable-e-commerce-widget/" target="_blank">
   <img src="assets/demo.min.gif" alt="Widget Logo" width="780" />
-</p>
+</a>
 
-<h1 align="center">Embeddable E-commerce Widget</h1>
+<h1 align="center"><a href="https://schnapsterdog.github.io/embeddable-e-commerce-widget/" target="_blank">Embeddable E-commerce Widget</a></h1>
 
 <p align="center">
   🚀 Lightweight, Fast, and Modern JavaScript Widget for Embedding Products into Any Website
@@ -43,7 +43,7 @@ This project is a fully embeddable **e-commerce widget** that allows you to:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-widget-repo.git
+git clone https://github.com/SchnapsterDog/embeddable-e-commerce-widget.git
 cd your-widget-repo
 ```
 
